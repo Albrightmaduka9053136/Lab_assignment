@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Lab 2 — Data Collection & Pre-Processing (PROG8245)
 
 Author: Albright Maduka
@@ -45,3 +46,7 @@ pip install -r requirements.txt
 
 12. Soft Interview Reflection – short paragraph on how the class encapsulates data and behaviour
 
+=======
+# Lab_assignment
+Data Collection and Pre-Processing Lab Assignment
+>>>>>>> 0509dc65d9168db30caaba78b6280c4ea8d3fe0b
